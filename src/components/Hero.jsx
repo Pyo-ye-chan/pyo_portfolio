@@ -60,7 +60,7 @@ export default function Hero() {
         </div>
         <div className="hero-image-wrapper fade-in" style={{ animationDelay: '0.2s' }}>
           <div className="hero-image-glow"></div>
-          <img src={heroGraphic} alt="Developer Graphic illustration" className="hero-img" />
+          <img src={pyo} alt="Developer Graphic illustration" className="hero-img" />
         </div>
       </div>
     </section>
