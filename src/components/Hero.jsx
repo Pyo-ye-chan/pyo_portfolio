@@ -1,6 +1,7 @@
 import React from 'react';
 import { ArrowRight, Mail } from 'lucide-react';
 import heroGraphic from '../assets/hero_graphic.jpg';
+import pyo from '../assets/pyo.jpg'
 
 const Github = ({ size = 24, ...props }) => (
   <svg
